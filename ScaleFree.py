@@ -9,4 +9,4 @@ def new_scale_graph(num, gammat):
     return G
 
 
-new_scale_graph(100, 0.9)
+new_scale_graph(1000000, 0.9)
